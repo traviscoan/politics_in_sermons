@@ -1,0 +1,22 @@
+Package: superlda
+Type: Package
+Title: A package to estimate supervised, generative models of text.
+Version: 0.1
+Date: 2018-06-08
+Author: Travis G. Coan
+Maintainer: Travis G. Coan <t.coan@exeter.ac.uk>
+Description: An implementation of supervised (or labeled) and semi-supervised 
+    latent Dirichlet allocation (LDA). It estimates word and topic probability
+    distributions using collasped Gibbs sampling. It also includes a handful
+    of functions to assess topic results and methods to infer topics in unseen
+    documents.
+Depends: R (>= 3.4.4)
+License: MIT + file LICENSE
+LazyData: TRUE
+Imports:
+    Rcpp (>= 0.12.18), RcppArmadillo (>= 0.8.600.0)
+LinkingTo: 
+    Rcpp, RcppArmadillo
+RoxygenNote: 7.1.1
+Roxygen: list(markdown = TRUE)
+Encoding: UTF-8

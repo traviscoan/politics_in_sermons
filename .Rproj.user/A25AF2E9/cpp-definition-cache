@@ -1,0 +1,71 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "/Users/tcoan/git_repos/superlda-dev/src/inferencer.cpp",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "infer_labels(arma::sp_mat, int, int, int, int, int, int, double, double, arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@infer_labels#$@N@arma@C@SpMat>#d#I#I#I#I#I#I#d#d#$@N@arma@C@Mat>#d#"
+            },
+            {
+                "column" : 12,
+                "file" : "/Users/tcoan/git_repos/superlda-dev/src/inferencer.cpp",
+                "kind" : 6,
+                "line" : 117,
+                "name" : "infer_topics(arma::sp_mat, int, int, int, int, int, int, double, arma::vec, arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@infer_topics#$@N@arma@C@SpMat>#d#I#I#I#I#I#I#d#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#"
+            }
+        ],
+        "file" : "/Users/tcoan/git_repos/superlda-dev/src/inferencer.cpp",
+        "file_last_write" : 1541338595.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/tcoan/git_repos/superlda-dev/src/superlda.h",
+        "file_last_write" : 1530451065.000000
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "/Users/tcoan/git_repos/superlda-dev/src/train_label_word.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "train_label_word(arma::sp_mat, arma::sp_mat, int, int, int, int, int, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@train_label_word#$@N@arma@C@SpMat>#d#S0_#I#I#I#I#I#d#d#"
+            }
+        ],
+        "file" : "/Users/tcoan/git_repos/superlda-dev/src/train_label_word.cpp",
+        "file_last_write" : 1530546993.000000
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 5,
+                "file" : "/Users/tcoan/git_repos/superlda-dev/src/util.cpp",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "flatten_spmat(sp_mat, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@flatten_spmat#$@N@arma@C@SpMat>#d#I#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "/Users/tcoan/git_repos/superlda-dev/src/util.cpp",
+                "kind" : 6,
+                "line" : 50,
+                "name" : "rand_init_label(vec, vec, mat, int, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@rand_init_label#$@N@arma@C@Col>#d#S0_#$@N@arma@C@Mat>#d#I#I#I#I#"
+            }
+        ],
+        "file" : "/Users/tcoan/git_repos/superlda-dev/src/util.cpp",
+        "file_last_write" : 1530449231.000000
+    }
+]
